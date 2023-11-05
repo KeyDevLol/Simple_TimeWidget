@@ -1,0 +1,10 @@
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\bin\Debug\TimeWidget.exe.config
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\bin\Debug\TimeWidget.exe
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\bin\Debug\TimeWidget.pdb
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.csprojAssemblyReference.cache
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.Properties.Resources.resources
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.csproj.GenerateResource.cache
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.csproj.CoreCompileInputs.cache
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.exe
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.pdb
+C:\Users\Жданов\source\repos\TimeWidget\TimeWidget\obj\Debug\TimeWidget.Form1.resources
